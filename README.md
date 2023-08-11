@@ -18,7 +18,7 @@ Then, use the following command to install the required packages:
 pip install -r requirements.txt
 ```
 
-If the installation fails using the previous commands, you can install the correct versions of PyTorch and CUDA separately using the following commands:
+If the installation fails using the previous commands, you can install the correct versions of `PyTorch` and `CUDA` separately using the following commands:
 
 ```
 pip install torch==1.10.1+cu111 torchvision==0.11.2+cu111 -f  https://download.pytorch.org/whl/cu111/torch_stable.htm
@@ -62,7 +62,7 @@ python test.py
 
 ## Trained model
 
-You can download the pre-trained model from this [link]([恒源云_GPUSHARE-恒源智享云](https://gpushare.com/center/hire)).
+You can download the pre-trained model from this [link] ([使用 Typora 编辑 Markdown 文件时插入链接的方式_typora添加本地文件链接_捂眼看世界的博客-CSDN博客](https://blog.csdn.net/he_nan/article/details/105850141)).
 
 ```
 Access Code：8888
