@@ -8,7 +8,37 @@ This project is based on the given drone data, utilizing VGG16 with batch normal
 
 If you are using conda, you may configure YOLOv1 as:
 
-`conda create -n yolos python=3.8.16`
+`<div class="copy-module">   `
+
+​     `<button class="copy-button" onclick="copyText()">Copy</button>   `
+
+​     `<pre class="copy-content">     `
+
+`<!-- `conda create -n yolos python=3.8.16` -->   `
+
+`</pre> `
+
+`</div> `
+
+`<script>   `
+
+`function copyText() {     `
+
+`const copyContent = document.querySelector('.copy-content');     `
+
+`const range = document.createRange();     `
+
+`range.selectNode(copyContent);     `
+
+`window.getSelection().removeAllRanges();     window.getSelection().addRange(range);     `
+
+`document.execCommand('copy');     `
+
+`window.getSelection().removeAllRanges();   `
+
+ `} `
+
+`</script>`
 
 Then, use the following command to install the required packages:
 
@@ -52,4 +82,5 @@ You use the following command to calculate accuracy and make predictions on the 
 
 ## Trained model
 
-You can download the pre-trained model from this link.
+You can download the pre-trained model from this [link]([恒源云_GPUSHARE-恒源智享云](https://gpushare.com/center/hire)).
+
