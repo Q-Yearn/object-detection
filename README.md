@@ -62,7 +62,7 @@ python test.py
 
 ## Trained model
 
-You can download the pre-trained model from this [link] ([使用 Typora 编辑 Markdown 文件时插入链接的方式_typora添加本地文件链接_捂眼看世界的博客-CSDN博客](https://blog.csdn.net/he_nan/article/details/105850141)).
+You can download the pre-trained model from this [link]([使用 Typora 编辑 Markdown 文件时插入链接的方式_typora添加本地文件链接_捂眼看世界的博客-CSDN博客](https://blog.csdn.net/he_nan/article/details/105850141)).
 
 ```
 Access Code：8888
